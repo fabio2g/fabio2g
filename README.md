@@ -1,8 +1,13 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
+
+<div align="left">
+<h1> Hi there 👋 </h1>
 
 Here are some ideas to get you started:
 
-## ⚡ Technologies
+
+
+<h2> ⚡ Technologies </h2>
 
 These are some of the technologies and tools that I work with:
 
@@ -17,4 +22,4 @@ These are some of the technologies and tools that I work with:
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-7B68EE?style=flat-square&logo=intellij-idea&logoColor=black)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+</div>
