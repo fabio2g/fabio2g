@@ -10,7 +10,7 @@
 
 
 
-<h2> ⚡ Technologies </h2>
+<h2>Technologies 🚀 </h2>
 
 These are some of the technologies and tools that I work with:
 
