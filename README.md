@@ -3,7 +3,7 @@
 <div align="left">
 <h1> Hi there 👋</h1>
   
-  - My name is Fabio 😎
+  - I'm Fabio, I'm brazilian 😎
   - I'm a Systems Analysis and Development student 👨🏻‍🎓🏯
   - My interests are front-end and back-end web programming 💻🖱
   
