@@ -1,9 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
 
 <div align="left">
-<h1> Hi there 👋 </h1>
-
-Here are some ideas to get you started:
+<h1> Hi there 👋</h1>
+  
+  - My name is Fabio 😎
+  - I'm a Systems Analysis and Development student 👨🏻‍🎓🏯
+  - My interests are front-end and back-end web programming 💻🖱
+  
 
 
 
