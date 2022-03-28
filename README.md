@@ -23,6 +23,5 @@
   ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fabio-sv&show_icons=true&theme=vision-friendly-dark" alt="fabio-sv's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-sv&layout=compact&theme=vision-friendly-dark" alt="fabio-sv's most languages"/>
 </p>
