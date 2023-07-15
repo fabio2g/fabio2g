@@ -8,7 +8,6 @@
   - My interests are front-end and back-end web programming.💻
   
   <br>
-  <br>
   
  ## 🛠 &nbsp;Tech Stack
 
