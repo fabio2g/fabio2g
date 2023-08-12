@@ -1,4 +1,4 @@
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook birobirobiro">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" min-width="400px" max-width="400px" width="365px" align="right" alt="">
 
 <div align="left">
 <h1> Hi there 👋</h1>
